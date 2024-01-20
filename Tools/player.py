@@ -1,31 +1,9 @@
-#!/usr/bin/python
-
-# ---------------- READ ME ---------------------------------------------
-# This Script is Created Only For Practise And Educational Purpose Only
-# This is an Example Of Tkinter Canvas Graphics
-# This Script Is Created For http://bitforestinfo.blogspot.in
-# This Script is Written By
-#
-#
-##################################################
-######## Please Don't Remove Author Name #########
-############### Thanks ###########################
-##################################################
-#
-#
 __author__='''
 
 ######################################################
-                By S.S.B Group                          
+                By -DK-                        
 ######################################################
-
-    Suraj Singh
-    Admin
-    S.S.B Group
-    surajsinghbisht054@gmail.com
-    http://bitforestinfo.blogspot.in/
-
-    Note: We Feel Proud To Be Indian
+    Dhiraj Karangale
 ######################################################
 '''
 # Here Importing Modules
@@ -36,20 +14,6 @@ import time
 import threading
 import pyglet.media as media
 from Configuration_base import *
-
-# ============================================
-# Usages:
-#       player=__media__player(path, song_time, song_duration, volume)
-# Here:
-#   path=String Variable For Song Path
-#   song_time=String Variable For Song Playing Time
-#   song_duration= String Variable For Time duration
-#   volume = IntVar For Volume Updates
-#
-# For Other Functions:
-#   player.YourFunction
-# ============================================
-
 
 class mediaplayer:
     def __init__(self, path, song_time,song_duration,volume):

@@ -1,21 +1,9 @@
-# This Program Is Created Only For Practise and Educational Purpose Only
-# This Program Is Created By S.S.B
-# This Program Is Completely Free And Open Source
 __author__='''
 
-S.S.B
-surajsinghbisht054@gmail.com
-https://bitforestinfo.blogspot.com
+DK
+Dhiraj Karangale
 '''
-#
-#
-##################################################
-######## Please Don't Remove Author Name #########
-############### Thanks ###########################
-##################################################
-#
-#
-# Here Importing Modules
+
 from Configuration_base import *
 
 try:
